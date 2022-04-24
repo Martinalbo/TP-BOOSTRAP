@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.div-der{
+    background-image: url(./Imagenes/honolulu.jpg);
+    background-size: cover;
+}
+
+.card-group{
+    margin-top: 20px;
+}
+
+section{
+    height: 100vh;
+    width: 50%;
+    
+}
+
+#position{
+    display: flex;
+    justify-content: space-around;
+}
+
+#navbarNav{
+    width: 80rem;
+}
+
+
+.text-white{
+    color: beige;
+}
+
+
+.portada{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
